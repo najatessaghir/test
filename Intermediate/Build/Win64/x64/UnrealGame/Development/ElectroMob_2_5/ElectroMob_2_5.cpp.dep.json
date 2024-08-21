@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue\\new folder\\new folder\\electromob_2_5\\intermediate\\source\\electromob_2_5.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue\\new folder\\new folder\\electromob_2_5\\intermediate\\build\\win64\\x64\\electromob_2_5\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue\\new folder\\new folder\\electromob_2_5\\intermediate\\build\\win64\\x64\\unrealgame\\development\\electromob_2_5\\definitions.electromob_2_5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

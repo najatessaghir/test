@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\UE\\New folder\\New folder\\ElectroMob_2_5\\Intermediate\\Source\\ElectroMob_2_5.Build.cs",
+		"F:\\UE\\New folder\\New folder\\ElectroMob_2_5\\Intermediate\\Source\\ElectroMob_2_5.Target.cs",
+		"F:\\UE\\New folder\\New folder\\ElectroMob_2_5\\Intermediate\\Source\\ElectroMob_2_5Client.Target.cs",
+		"F:\\UE\\New folder\\New folder\\ElectroMob_2_5\\Intermediate\\Source\\ElectroMob_2_5Editor.Target.cs",
+		"F:\\UE\\New folder\\New folder\\ElectroMob_2_5\\Intermediate\\Source\\ElectroMob_2_5Server.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
